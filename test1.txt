@@ -5,3 +5,4 @@ Another second test file.
 This is github practice data.
 Another test data.
 This is git & github practice data.
+Logo alignment is centered.
